@@ -1,1 +1,2 @@
-# squad-alohomora.github.io
+# Squad Alohomora
+
