@@ -15,7 +15,7 @@ const movies = [
   { year: 2018, title: 'Black Panther', publisher: 'Walt Disney Studios Motion Pictures', ticketSales: '1,347,280,838' }
 ];
 
-const moviesDOM = document.querySelector('#mapMovies');
+const moviesDOM = document.querySelector('#map-movies');
 
 const mapMovies = movies.map((movie, index) => {
   return (
@@ -29,4 +29,3 @@ const mapMovies = movies.map((movie, index) => {
     </tr>`
   )
 });
-
